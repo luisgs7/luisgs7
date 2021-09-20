@@ -32,7 +32,12 @@ Here are some ideas to get you started:
     <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
     <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </div>
+    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
+
+ </div>
 
  ##
   
