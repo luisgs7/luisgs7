@@ -7,34 +7,31 @@ Here are some ideas to get you started:
 
 -->
 - 🤓 Sou estudante de Licenciatura em Computação, no <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>
-- 💻 Desenvolvo software em:
-   * <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python 
-   * <img align="center" alt="Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java para Android
-- 🧠 Possuo interesse na área de Machine Learning e Deep Learning 
+- <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python
+- 🧠 Possuo interesse na área de Data Science, Machine Learning e Deep Learning 
 
 ##
 
-<div>
-  <a href="https://github.com/luisgs7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgs7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  
-  
+  <h3>⚙️ Stack</h3>
   <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
     <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-
-
  </div>
+ 
+ ##
+ 
+ 
+ <div>
+  <a href="https://github.com/luisgs7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgs7&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
 
  ##
   
