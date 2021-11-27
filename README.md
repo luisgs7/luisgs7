@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🤓 Sou estudante de Licenciatura em Computação, no <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>
 - <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python
-- 🧠 Possuo interesse na área de Data Science, Machine Learning e Deep Learning 
+- 🧠 Possuo interesse nas áreas de Data Science, Machine Learning e Deep Learning 
 
 ##
 
