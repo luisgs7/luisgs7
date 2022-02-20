@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤓 Sou estudante de Licenciatura em Computação, no <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>
 - <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python
 - 🧠 Possuo interesse nas áreas de Data Science e Machine Learning 
-### Skills: Python, Docker, Django, MySQL/SQL, Git/Github, Linux 
+### Skills: Python, Docker, Django, MySQL/SQL, Git/Github, Linux, Pandas 
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Linux" height="50" width="60" src="https://github.com/luisgs7/luisgs7/blob/main/print/pandas.png" />
  </div>
  
  ### WorkShop Ministrado 
