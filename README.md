@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - <a href="http://lattes.cnpq.br/7401309837661540">Currículo Lattes </a>
 - <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python e PL/SQL, além de possuir conhecimentos em Java, javaScript e Dart.
 - 🧠 Possuo interesse nas áreas de desenvolvimento Backend, Data Science e Machine Learning. 
+- Mantenho o projeto iadevlab, no qual compartilho o meu conhecimento através de artigos: https://iadevlab.com/
 ### Skills: Python, Docker, Django, MySQL/SQL, Git/Github, Linux, Pandas 
 
   <div style="display: inline_block"><br>
