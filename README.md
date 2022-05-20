@@ -37,21 +37,13 @@ Here are some ideas to get you started:
  #### 1º - Monitor da Disciplina de Programação II, do curso de Licenciatura em Computação no IFTO - Campus Colinas (2020)
  #### 2º - Monitor da disciplina de Lógica em Programação, do curso de Técnico em Informática, do 1º ano integrado ao ensino médio no IFTO - Campus Colinas (2021)
  ##
-<!--
+<!-- -->  
  <div>
   <a href="https://github.com/luisgs7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgs7&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
--->  
+
   <div>
    <a href = "mailto:luis.silva7@estudante.ifto.edu..br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">    </a>
       <a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-8632181a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  
- 
-  
-
-
-
