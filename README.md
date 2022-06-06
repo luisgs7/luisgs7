@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - Mantenho o projeto iadevlab, no qual compartilho o meu conhecimento através de artigos: https://iadevlab.com/
 - 📫 Se quiser entrar em contato, meu e-mail é iadevlab@gmail.com
 ### Skills: Python, Docker, Django, MySQL/SQL, Git/Github, Linux, Pandas 
-
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <!---<img align="center" alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />  -->
-    <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Linux" height="50" width="60" src="https://github.com/luisgs7/luisgs7/blob/main/print/pandas.png" />
+  <div style="display: inline_block">
+    <img align="center" alt="Luís-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="Luís-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="Luís-Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />  
+    <img align="center" alt="Luís-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Luís-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Luís-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="Luís-Pandas" height="40" width="50" src="https://github.com/luisgs7/luisgs7/blob/main/print/pandas.png" /> 
+    <img align="center" alt="Luís-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" />
+  <img align="center" alt="Luís-Linode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <img align="center" alt="Luís-Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+   
  </div>
  
  ### WorkShop Ministrado 
