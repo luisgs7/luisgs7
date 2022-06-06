@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🧠 Possuo interesse nas áreas de desenvolvimento Backend, Data Science e Machine Learning. 
 - Mantenho o projeto iadevlab, no qual compartilho o meu conhecimento através de artigos: https://iadevlab.com/
 - 📫 Se quiser entrar em contato, meu e-mail é iadevlab@gmail.com
-### Skills: Python, Docker, Django, MySQL/SQL, Git/Github, Linux, Pandas 
+### Skills:
   <div style="display: inline_block">
     <img align="center" alt="Luís-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img align="center" alt="Luís-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
     <img align="center" alt="Luís-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Luís-Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Luís-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Luís-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Luís-Pandas" height="40" width="50" src="https://github.com/luisgs7/luisgs7/blob/main/print/pandas.png" /> 
     <img align="center" alt="Luís-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="Luís-Linode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
-  
+  <img align="center" alt="Luís-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Luís-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" />  
    
  </div>
  
