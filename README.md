@@ -22,10 +22,11 @@ Here are some ideas to get you started:
     <img align="center" alt="Luís-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Luís-Pandas" height="40" width="50" src="https://github.com/luisgs7/luisgs7/blob/main/print/pandas.png" /> 
     <img align="center" alt="Luís-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" />
-  <img align="center" alt="Luís-Linode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <img align="center" alt="Luís-Linode" height="60" width="70" src="https://avatars.githubusercontent.com/u/5184305?s=200&v=4" />  
   <img align="center" alt="Luís-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Luís-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" />  
-   
+  <img align="center" alt="Luís-Fedora" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" />
+  <img align="center" alt="Luís-Fedora" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />  
+
  </div>
  
  ### WorkShop Ministrado 
