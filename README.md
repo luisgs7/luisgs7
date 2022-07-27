@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🤓 I have a degree in Computing, at <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>.
 - <a href="http://lattes.cnpq.br/7401309837661540">Currículo Lattes </a>
-- <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python e PL/SQL, além de possuir conhecimentos em Java, javaScript e Dart.
+- <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">I develop software using Python and PL/SQL, in addition to having knowledge in Java, javaScript and Dart.
 - 🧠 I am interested in the areas of Back End, Data Science and Machine Learning development.
 - I maintain the iadevlab project, in which I share my knowledge through articles: https://iadevlab.com/
 - 📫 If you want to get in touch, send me a message on <a href = "https://www.linkedin.com/in/lu%C3%ADs-gustavo-8632181a3/">Linkedin</a>. 
