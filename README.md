@@ -1,4 +1,4 @@
-## Olá, eu sou o Luís Gustavo, tudo bem? 👋
+## Hello, I'm Luís Gustavo, how are you? 👋
 
 <!--
 **luisgs7/luisgs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 
 -->
-- 🤓 Sou Licenciado em Computação, pelo <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>.
+- 🤓 I have a degree in Computing, at <a href="http://www.ifto.edu.br/"> Instituto Federal do Tocantins</a>,<a href="http://www.ifto.edu.br/colinas"> Campus Colinas do Tocantins </a>.
 - <a href="http://lattes.cnpq.br/7401309837661540">Currículo Lattes </a>
 - <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Desenvolvo software utilizando Python e PL/SQL, além de possuir conhecimentos em Java, javaScript e Dart.
-- 🧠 Possuo interesse nas áreas de desenvolvimento Backend, Data Science e Machine Learning. 
-- Mantenho o projeto iadevlab, no qual compartilho o meu conhecimento através de artigos: https://iadevlab.com/
-- 📫 Se quiser entrar em contato, meu e-mail é iadevlab@gmail.com
+- 🧠 I am interested in the areas of Back End, Data Science and Machine Learning development.
+- I maintain the iadevlab project, in which I share my knowledge through articles: https://iadevlab.com/
+- 📫 If you want to get in touch, send me a message on <a href = "https://www.linkedin.com/in/lu%C3%ADs-gustavo-8632181a3/">Linkedin</a>. 
 ### Skills:
   <div style="display: inline_block">
     <img align="center" alt="Luís-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 
  </div>
  
- ### WorkShop Ministrado 
+ ### WorkShop Ministered 
  
  <a href = "https://www.youtube.com/watch?v=eh6LJuWdF8Q">Workshop de Python e Inteligência Artificial</a>
  ##
  
- ### Projetos Open Source
- - <a href="https://github.com/luisgs7/bot-coin">Bot Coin</a>: é um projeto de um bot para o Telegram, que possibilita informar a cotação do Dólar, Bitcoin e Euro em tempo real, a partir de uma API externa. <br><br>
- - <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>: consiste em uma action do github actions, para projetos python, que possibilita instalar o pip e instalar as dependências descritas no arquivo requirements.txt. <br><br>
- - <a href="https://github.com/luisgs7/python-project-setup">Python Project Setup</a>: este projeto é um “setup”, com um conjunto de boas práticas para o desenvolvimento de um projeto Python, independentemente se seja web, desktop, machine Learning, Deep Learning ou de Engenharia de dados. A fim de que, seja possível desenvolver um software com maior qualidade de código. Neste projeto é utilizado a action que foi desenvolvida por mim, a <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>, que inclusive pode ser utilizada em seus projetos. :) <br><br>
+ ### Open Source Projects
+ - <a href="https://github.com/luisgs7/bot-coin">Bot Coin: is a project of a bot for Telegram, which makes it possible to inform the price of Dollar, Bitcoin and Euro in real time, from an external API. <br><br>
+ - <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>: consists of a github actions action, for python projects, which makes it possible to install pip and install the dependencies described in the requirements.txt file. <br><br>
+ - <a href="https://github.com/luisgs7/python-project-setup">Python Project Setup</a>: this project is a “setup”, with a set of best practices for the development of a Python project, regardless of whether it is web, desktop, machine learning, deep learning or data engineering. So that it is possible to develop software with higher code quality. In this project, the action that was developed by me is used, the <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>,that can even be used in your projects. :) <br><br>
 
- ### Experiências
- #### 1º - Monitor da Disciplina de Programação II, do curso de Licenciatura em Computação no IFTO - Campus Colinas (2020)
- #### 2º - Monitor da disciplina de Lógica em Programação, do curso de Técnico em Informática, do 1º ano integrado ao ensino médio no IFTO - Campus Colinas (2021)
+ ### Experiences
+ #### 1º - Monitor of the Programming Course II, of the Degree in Computing at IFTO - Campus Colinas(2020)
+ #### 2º - Monitor of the Logic in Programming discipline, of the Computer Technician course, from the 1st year integrated to high school at IFTO - Campus Colinas (2021)
  ##
 <!-- -->  
  <div>
