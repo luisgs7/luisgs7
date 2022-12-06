@@ -41,6 +41,7 @@ Here are some ideas to get you started:
  
  ### Open Source Projects
  - <a href="https://github.com/luisgs7/bot-coin">Bot Coin</a>: This project consists, in a simplified way, of a bot for Telegram, with the purpose of allowing access to quotes of some currencies in relation to the real<br><br>
+ - <a href="https://github.com/luisgs7/cashwallet-api">Cashwallet API</a>: This project consists of an open-source financial control application, which will have an API, and an android application, link for more information about the project in this <a href="https://iadevlab.com/post/6">article</a>.<br><br>
  - <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>: consists of a github actions action, for python projects, which makes it possible to install pip and install the dependencies described in the requirements.txt file. <br><br>
  - <a href="https://github.com/luisgs7/python-project-setup">Python Project Setup</a>: this project is a “setup”, with a set of best practices for the development of a Python project, regardless of whether it is web, desktop, machine learning, deep learning or data engineering. So that it is possible to develop software with higher code quality. In this project, the action that was developed by me is used, the <a href="https://github.com/luisgs7/pip-packages">Pip Packages</a>,that can even be used in your projects. :) <br><br>
 
