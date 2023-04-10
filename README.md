@@ -50,11 +50,11 @@ Here are some ideas to get you started:
  #### 2º - Monitor of the Logic in Programming discipline, of the Computer Technician course, from the 1st year integrated to high school at IFTO - Campus Colinas (2021)
  ##
 <!-- -->  
- <div>
+<!--  <div>
   <a href="https://github.com/luisgs7"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgs7&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div> -->
 
   <br>
  <div>
