@@ -48,6 +48,7 @@ Here are some ideas to get you started:
  ### Experiences
  #### 1º - Monitor of the Programming Course II, of the Degree in Computing at IFTO - Campus Colinas(2020)
  #### 2º - Monitor of the Logic in Programming discipline, of the Computer Technician course, from the 1st year integrated to high school at IFTO - Campus Colinas (2021)
+ #### 3º - Software Developer, at [PecSmart](https://www.pecsmart.com.br/) - Home Office (03/07/2023 - At the moment)
  ##
 <!-- -->  
 <!--  <div>
