@@ -14,24 +14,7 @@ Here are some ideas to get you started:
 - 📫 If you want to get in touch, send me a message on <a href = "https://www.linkedin.com/in/lu%C3%ADs-gustavo-8632181a3/">Linkedin</a>. 
 ### Skills:
   <div style="display: inline_block">
-    <img align="center" alt="Luís-Python" height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Luís-Django" height="40" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
-    <img align="center" alt="Luís-Mysql" height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="Luís-Postgres" height="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="Luís-Sqlite" height="40" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="center" alt="Luís-AWS" height="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Luís-Heroku" height="40" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img align="center" alt="Luís-Linode" height="40" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" />
-    <img align="center" alt="Luís-Git" height="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="Luís-Github-actions" height="40" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img align="center" alt="Luís-Linux" height="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="Luís-Fedora" height="40" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-    <img align="center" alt="Luís-Ubuntu" height="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
-   
-   <img align="center" alt="Luís-Kotlin" height="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
- 
-   <img align="center" alt="Luís-Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> 
-  
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,mysql,postgresql,sqlite,aws,heroku,git,githubactions,linux,ubuntu,javascript,docker,rabbitmq,grafana,redis" />  
 </div>
  
  ### WorkShop Ministered 
